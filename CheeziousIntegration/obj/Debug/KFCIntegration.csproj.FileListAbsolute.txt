@@ -1,0 +1,115 @@
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csprojResolveAssemblyReference.cache
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.Cache
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+c:\users\shahzad\documents\visual studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+C:\Users\Shahzad\OneDrive - Maison Consulting & Solutions\Documents\Visual Studio 2015\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.Cache
+E:\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+E:\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+E:\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+E:\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csprojResolveAssemblyReference.cache
+E:\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+E:\Projects\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.Cache
+E:\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+E:\Projects\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+E:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+E:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+E:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+E:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+E:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+E:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csprojResolveAssemblyReference.cache
+E:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+E:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.Cache
+D:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+D:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+D:\Maison\KFC\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+D:\Maison\KFC\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+D:\Maison\KFC\Production\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.SuggestedBindingRedirects.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.SuggestedBindingRedirects.cache
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+E:\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+E:\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+E:\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.SuggestedBindingRedirects.cache
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+E:\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe.config
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.pdb
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.SuggestedBindingRedirects.cache
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.exe
+E:\maisonlahorCheeziouswork\KFCIntegration\KFCIntegration\KFCIntegration\obj\Debug\KFCIntegration.pdb
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe.config
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.pdb
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.exe
+C:\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.pdb
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe.config
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.pdb
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.exe
+C:\CHZ_BKUP\CHZ_BKUP\Cheezious_code\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.pdb
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe.config
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.exe
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KFCIntegration.pdb
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.AssemblyReference.cache
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.ProjectInstaller.resources
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.GenerateResource.cache
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.csproj.CoreCompileInputs.cache
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.exe
+C:\chz_kds_service_FryingItem_2024-2-15\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KFCIntegration.pdb

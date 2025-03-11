@@ -1,0 +1,9 @@
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KDSIntegration.exe.config
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KDSIntegration.exe
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\bin\Debug\KDSIntegration.pdb
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.csproj.AssemblyReference.cache
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.ProjectInstaller.resources
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.csproj.GenerateResource.cache
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.csproj.CoreCompileInputs.cache
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.exe
+C:\Users\BilalKhan\Desktop\KDS_Projects\CHZ_KDS\chz_kds_service_final\CheeziousIntegration(final)\CheeziousIntegration\CheeziousIntegration\obj\Debug\KDSIntegration.pdb

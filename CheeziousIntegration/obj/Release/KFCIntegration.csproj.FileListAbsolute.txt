@@ -1,0 +1,10 @@
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Release\KFCIntegration.exe.config
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Release\KFCIntegration.exe
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Release\KFCIntegration.pdb
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.csproj.AssemblyReference.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.csproj.SuggestedBindingRedirects.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.ProjectInstaller.resources
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.csproj.GenerateResource.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.csproj.CoreCompileInputs.cache
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.exe
+D:\chnage cheeizus\KFCIntegration\KFCIntegration\KFCIntegration\obj\Release\KFCIntegration.pdb

@@ -1,0 +1,11 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319 
+
+
+
+
+
+InstallUtil.exe "C:\Maison\KDS Server\KFCIntegration.exe"
+
+InstallUtil.exe -u "C:\Maison\KDS Server\KFCIntegration.exe"
+
+"D:\changesCheeizus\KFCIntegration\KFCIntegration\KFCIntegration\bin\Debug\KFCIntegration.exe"
