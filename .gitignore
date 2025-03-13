@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.vsidx
+/CheeziousIntegration/obj/Debug/KDSIntegration.csproj.CoreCompileInputs.cache
+/CheeziousIntegration/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/CheeziousIntegration/obj/Debug/KDSIntegration.csproj.AssemblyReference.cache
+/CheeziousIntegration/obj/Debug/KDSIntegration.csproj.GenerateResource.cache
+*.suo
+*.wsuo
+*.cache
+/CheeziousIntegration/obj/Debug/KDSIntegration.csproj.FileListAbsolute.txt
+/CheeziousIntegration/.vs/KDSIntegration/v17/.suo
