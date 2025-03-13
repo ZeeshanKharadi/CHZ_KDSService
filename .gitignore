@@ -12,3 +12,8 @@
 *.cache
 /CheeziousIntegration/obj/Debug/KDSIntegration.csproj.FileListAbsolute.txt
 /CheeziousIntegration/.vs/KDSIntegration/v17/.suo
+/CheeziousIntegration/bin/Debug/KDSIntegration.exe
+/CheeziousIntegration/bin/Debug/KDSIntegration.pdb
+/CheeziousIntegration/obj/Debug/KDSIntegration.exe
+/.vs/slnx.sqlite
+/CheeziousIntegration/obj/Debug/KDSIntegration.pdb
