@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\",
+  "WorkspaceRootPath": "D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|c:\\users\\bilalkhan\\desktop\\chz_kds\\chz_kdsintegration\\chz_kdsintegration\\cheeziousintegration\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|d:\\maisonprojects\\cheezious\\gitprojects\\kds_service\\cheeziousintegration\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|solutionrelative:service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E8EA82F-98AE-47DC-9BCF-FB1EDAA93BA7}|KDSIntegration.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Service1.cs",
-              "DocumentMoniker": "C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\Service1.cs",
+              "DocumentMoniker": "D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\Service1.cs",
               "RelativeDocumentMoniker": "Service1.cs",
-              "ToolTip": "C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\Service1.cs",
+              "ToolTip": "D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\Service1.cs",
               "RelativeToolTip": "Service1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAANEAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,14 +45,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\Program.cs",
+              "DocumentMoniker": "D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\BilalKhan\\Desktop\\CHZ_KDS\\CHZ_KDSIntegration\\CHZ_KDSIntegration\\CheeziousIntegration\\Program.cs",
+              "ToolTip": "D:\\MaisonProjects\\Cheezious\\GitProjects\\KDS_Service\\CheeziousIntegration\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAqwBMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T13:09:48.627Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:09:48.627Z"
             }
           ]
         }
